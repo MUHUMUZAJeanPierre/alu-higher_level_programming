@@ -1,4 +1,4 @@
-#!/usr/python3
+#!/usr/bin/python3
 from add_0 import add:
     a = 2
     b = 3
