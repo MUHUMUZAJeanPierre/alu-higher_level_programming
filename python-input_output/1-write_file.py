@@ -1,8 +1,10 @@
 #!/usr/bin/python3
-'''writes a string to a text file (UTF8) and return the number of characters written'''
+"""Defines an inherited list class MyList."""
 
 
-def write_file(filename="", text=""):
-    '''function to write text text to a file'''
-    with open(filename, 'w+') as f:
-        return f.write(text)
+class MyList(list):
+    """Implements sorted printing for the built-in list class."""
+
+    def print_sorted(self):
+        """Print a list in sorted ascending order."""
+        print(sorted(self))
