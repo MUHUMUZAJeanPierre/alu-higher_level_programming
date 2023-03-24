@@ -1,4 +1,4 @@
-#!/usr/python3
+#!/usr/bin/python3
 '''Write a function that creates an Object from a "JSON file":'''
 
 
