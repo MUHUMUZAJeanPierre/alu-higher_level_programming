@@ -5,7 +5,7 @@
 import json
 
 
-def save_to_json_file(my_obj, filrname):
+def save_to_json_file(my_obj, filename):
     '''saves a doc to a json format'''
-    with open(filename, 'w+') ad f:
+    with open(filename, 'w+') as f:
         return json.dump(my_obj, f)
