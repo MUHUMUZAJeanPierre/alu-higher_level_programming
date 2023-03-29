@@ -10,8 +10,3 @@ JOIN tv_show_ratings
      ON tv_show_ratings.show_id = tv_shows.id
 GROUP BY tv_genres.name
 ORDER BY rating DESC;
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Priv
