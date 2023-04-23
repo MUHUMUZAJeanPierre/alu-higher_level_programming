@@ -1,4 +1,5 @@
-se.py
+#!/usr/bin/python3
+"""base.py
 This module contains a class 'Base'
 """
 
