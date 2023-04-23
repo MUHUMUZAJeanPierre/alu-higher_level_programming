@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 ttests for Base module
+=======
+#!/usr/bin/python3
+
+"""
+    Unittests for Base module
+>>>>>>> 2ef939a5110fcc0d441078806bead6ec85b8fd91
 """
 
 import unittest
