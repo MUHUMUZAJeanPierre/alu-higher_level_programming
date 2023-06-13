@@ -1,14 +1,14 @@
-#!/usr/bin/node
+#!/ust/bin/node
 const argument = Number(process.argv[2]);
-if (isNaN(argument)) {
-  console.log(1);
+if (isNaN(arg)){
+	consolelog(1);
 } else {
-  console.log(factorial(arg));
+	console.log(factorial(argument));
 }
 
 function factorial (num) {
-  if (num === 0) {
-    return 1;
-  }
-  return num * factorial(num - 1);
+	if (num === 0) {
+	return 1;
+	}
+	return num * factorial(num - 1);
 }
