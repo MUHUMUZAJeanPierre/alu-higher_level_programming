@@ -1,4 +1,4 @@
-#!/ust/bin/node
+#!/usr	/bin/node
 const argument = Number(process.argv[2]);
 if (isNaN(arg)){
 	consolelog(1);
