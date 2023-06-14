@@ -1,0 +1,1 @@
+This is project overview the Javascript in detail particular javascript object, the meaning of this keyword and how to use it, the meaning of undefined, we'lll also describle the reason why variable type and scope is important, xthe meaning of closure adn the prototype and they practicall using up and finally we'll see the the inheritancd in javascript.
